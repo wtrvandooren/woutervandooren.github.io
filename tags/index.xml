@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Wouter Van Dooren</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Wouter Van Dooren</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>Besluitvorming</title>
+      <link>/tags/besluitvorming/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/besluitvorming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brussel</title>
+      <link>/tags/brussel/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/brussel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep-learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrimination</title>
+      <link>/tags/discrimination/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/discrimination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English</title>
+      <link>/tags/english/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grote projecten</title>
+      <link>/tags/grote-projecten/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/grote-projecten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrastructuur</title>
+      <link>/tags/infrastructuur/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/infrastructuur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participatie</title>
+      <link>/tags/participatie/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/participatie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privatization</title>
+      <link>/tags/privatization/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/privatization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

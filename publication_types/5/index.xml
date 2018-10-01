@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 on Wouter Van Dooren</title>
+    <link>/publication_types/5/</link>
+    <description>Recent content in 5 on Wouter Van Dooren</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Performance management in the public sector</title>
+      <link>/publication/performance-management/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/performance-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance information in the public sector: how it is used</title>
+      <link>/publication/performance_stevenvandewalle/</link>
+      <pubDate>Tue, 15 Nov 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/performance_stevenvandewalle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance measurement in the Flemish public sector: a supply and demand approach</title>
+      <link>/publication/performance-measurement_doctoral-dissertation/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/performance-measurement_doctoral-dissertation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
